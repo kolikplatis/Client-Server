@@ -6,7 +6,7 @@
  
 Environment: web 
  
-Поля обязательные для заполнения: Name, Email, Password 
+Поля обязательные для заполнения: "Name", "Email", "Password" 
 
 **Поле "Name":** 
 - Принимает латинские буквы, цифры, спецсимволы только ‘–‘, ‘_’ и пробел 
@@ -21,7 +21,7 @@ Environment: web
 - аналогично Name. 
  
 **Поле "Email":**
-- ознакомиться со стандартами https://tools.ietf.org/html/rfc3696#page-5   https://tools.ietf.org/html/rfc2822#section-3.4.1  
+- ознакомиться со стандартами: [Link1](https://tools.ietf.org/html/rfc3696#page-5) [Link2](https://tools.ietf.org/html/rfc2822#section-3.4.1)  
  
 **Поле "Password":** 
 - min: 5 символов
@@ -32,6 +32,6 @@ Environment: web
 
 Должно быть поле на подтверждение пароля.
 
-[Чек-лист](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=0#gid=0)
-[Тест-кейсы](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=298107433#gid=298107433)
-[Баг-репорты](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=1281624137#gid=1281624137)
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=0#gid=0)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=298107433#gid=298107433)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=1281624137#gid=1281624137)

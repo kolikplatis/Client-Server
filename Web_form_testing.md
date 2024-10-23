@@ -7,6 +7,7 @@ _**Ответы:**_
 - [Баг-репорты](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=1281624137#gid=1281624137)    
 
 
+
 Форма для регистрации http://itcareer.pythonanywhere.com/  
 
 **Требования:**

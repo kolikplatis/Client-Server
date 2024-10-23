@@ -8,6 +8,7 @@ _**Ответы:**_
 
 
 Форма для регистрации http://itcareer.pythonanywhere.com/  
+
 **Требования:**
 1. Environment: web 
 2. Поля, обязательные для заполнения: "Name", "Email", "Password"

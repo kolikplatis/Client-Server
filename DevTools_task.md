@@ -1,24 +1,24 @@
-1.Открыть сайт http://itcнашлиareer.pythonanywhere.com/
-2.Открыть Chrome DevTools
-3.Зайти в панель Elements.
-4.Найти инспектором кнопку Submit и выровнять слово Submit по центру
-5.Включить режим мобильного девайса (Device Mode)
-6.Выставить Dimensions: Responsive 
-7.Выбрать Responsive - Mobile
-8.Продемонстрировать работу дизайна Responsive
-9.Выставить Dimensions: Adaptive (select device).
-10.Создать свой девайс.
-11.Выставить Throttling low-end mobile
-12.Обновить страницу
-13.Перевести в ландшафтные режим.
-14.Выключить Device Mode
-15.Открыть панель Console.
-16.Найти 2 сообщения Error в логах
-17.Сохранить эти 2 сообщения лога как файл на компьютер.
-18.Найти 1 сообщение verbose
-19.Пролистать логи Warnings, Info, User Messages.
-20.Открыть вкладку Sources.
-21.Открыть файл Index
+1.Открыть сайт http://itcнашлиareer.pythonanywhere.com/  
+2.Открыть Chrome DevTools  
+3.Зайти в панель Elements  
+4.Найти инспектором кнопку Submit и выровнять слово Submit по центру  
+5.Включить режим мобильного девайса (Device Mode)  
+6.Выставить Dimensions: Responsive   
+7.Выбрать Responsive - Mobile  
+8.Продемонстрировать работу дизайна Responsive  
+9.Выставить Dimensions: Adaptive (select device)  
+10.Создать свой девайс  
+11.Выставить Throttling low-end mobile  
+12.Обновить страницу  
+13.Перевести в ландшафтные режим  
+14.Выключить Device Mode  
+15.Открыть панель Console  
+16.Найти 2 сообщения Error в логах  
+17.Сохранить эти 2 сообщения лога как файл на компьютер  
+18.Найти 1 сообщение verbose  
+19.Пролистать логи Warnings, Info, User Messages  
+20.Открыть вкладку Sources  
+21.Открыть файл Index  
 
               Шаги выполнения 1-21 - [Link](https://drive.google.com/file/d/1BJg1PcpIn-BAv9LRCGQNf94NoXpGAWn0/view?usp=sharing)
 

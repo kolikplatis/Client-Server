@@ -1,12 +1,17 @@
-Задание: написать чек лист, тест кейсы, баг-репорты
+_**Задание:**_ написать чек-лист, тест-кейсы (10 шт), баг-репорты (10 шт)
 
-Требования:
+_**Ответы:**_
 
-Форма для регистрации http://itcareer.pythonanywhere.com/ 
- 
-Environment: web 
- 
-Поля обязательные для заполнения: "Name", "Email", "Password" 
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=0#gid=0)
+- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=298107433#gid=298107433)
+- [Баг-репорты](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=1281624137#gid=1281624137)
+
+
+Форма для регистрации http://itcareer.pythonanywhere.com/
+**Требования:**
+1. Environment: web 
+2. Поля, обязательные для заполнения: "Name", "Email", "Password"
+3. Должно быть поле подтверждения пароля. 
 
 **Поле "Name":** 
 - Принимает латинские буквы, цифры, спецсимволы только ‘–‘, ‘_’ и пробел 
@@ -30,10 +35,5 @@ Environment: web
 - Минимально должен включать 1 заглавную букву, 1 строчную и 1 цифру
 - Спецсимволы не принимает
 
-Должно быть поле на подтверждение пароля.
 
-_**Ответы:**_
 
-- [Чек-лист](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=0#gid=0)
-- [Тест-кейсы](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=298107433#gid=298107433)
-- [Баг-репорты](https://docs.google.com/spreadsheets/d/1JqJy-Op6X_ycz2aTGmpEgXe4OWvt3T2T5-BdnYqisII/edit?gid=1281624137#gid=1281624137)

@@ -20,7 +20,7 @@
 20.Открыть вкладку Sources  
 21.Открыть файл Index  
 
-        Шаги выполнения 1-21:[Link](https://drive.google.com/file/d/1BJg1PcpIn-BAv9LRCGQNf94NoXpGAWn0/view?usp=sharing)
+- **Шаги выполнения 1-21:[Link](https://drive.google.com/file/d/1BJg1PcpIn-BAv9LRCGQNf94NoXpGAWn0/view?usp=sharing)**
 
 22.Открыть вкладку Network  
 23.В урле отправить отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name   
@@ -34,7 +34,7 @@
 31.Развернуть все Storage в левом столбце  
 32.Зайти в Cache Storage и Application Cache. Там везде будет пусто  
 
-- Шаги выполнения 22-32: [Link](https://drive.google.com/file/d/1jMmtxxP9PQkdpliOLU7HdOmZ8c0HP8-v/view?usp=sharing)  
+- **Шаги выполнения 22-32: [Link](https://drive.google.com/file/d/1jMmtxxP9PQkdpliOLU7HdOmZ8c0HP8-v/view?usp=sharing)**  
 
 33.Открыть любой сайт, который хотите  
 34.Откройте вкладку LightHouse  
@@ -45,7 +45,7 @@
 39.Сделать и сохранить скриншот видимой части страницы сайта  
 40.Сделать и сохранить скриншот всего сайта  
 
-Шаги выполнения 33-40: [Link](https://drive.google.com/file/d/1SSqFHwmH3A0xS92x0A13oq7Y_9d9odHD/view?usp=sharing)  
+- **Шаги выполнения 33-40: [Link](https://drive.google.com/file/d/1SSqFHwmH3A0xS92x0A13oq7Y_9d9odHD/view?usp=sharing)**  
 
 41.Изменить локацию GPS. Продемонстрировать на сайте Гугл карт  
 42.Изменить локацию GPS второй раз. Продемонстрировать на сайте Гугл карт  
@@ -60,4 +60,4 @@
 51.Найти интерфейс для изменения/добавления параметров Locations  
 52.Проверить на Google карте, как применяются изменения локации  
 
-Шаги выполнения 41-52: [Link]()  
+- **Шаги выполнения 41-52: [Link]()**  

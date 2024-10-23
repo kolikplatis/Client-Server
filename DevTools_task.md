@@ -20,6 +20,7 @@
  18. Пролистать логи Warnings, Info, User Messages.
  19. Открыть вкладку Sources.
  20. Открыть файл Index
+
    [Link](https://drive.google.com/file/d/1BJg1PcpIn-BAv9LRCGQNf94NoXpGAWn0/view?usp=sharing)
 
  22. Открыть вкладку Network

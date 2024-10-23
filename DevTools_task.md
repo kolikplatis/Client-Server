@@ -20,7 +20,7 @@
 20.Открыть вкладку Sources  
 21.Открыть файл Index  
 
-              Шаги выполнения 1-21: [Link](https://drive.google.com/file/d/1BJg1PcpIn-BAv9LRCGQNf94NoXpGAWn0/view?usp=sharing)  
+              Шаги выполнения 1-21: [Link](https://drive.google.com/file/d/1BJg1PcpIn-BAv9LRCGQNf94NoXpGAWn0/view?usp=sharing)
 
 22.Открыть вкладку Network  
 23.В урле отправить отправить 24.http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name   

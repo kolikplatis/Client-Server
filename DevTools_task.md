@@ -20,8 +20,9 @@
  18. Пролистать логи Warnings, Info, User Messages.
  19. Открыть вкладку Sources.
  20. Открыть файл Index
- 21. Открыть вкладку Network
+        [Link](https://drive.google.com/file/d/1BJg1PcpIn-BAv9LRCGQNf94NoXpGAWn0/view?usp=sharing)
 
+ 21. Открыть вкладку Network
  22. В урле отправить отправить http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name 
  23. Найти лог request/responce  
  24. Открыть вкладку Headers
@@ -33,15 +34,18 @@
  30. Развернуть все Storage в левом столбце.
  31. Зайти в Cache Storage и Application Cache
  32. Там везде будет пусто.
+        [Link](https://drive.google.com/file/d/1jMmtxxP9PQkdpliOLU7HdOmZ8c0HP8-v/view?usp=sharing)
+
  33. Открыть любой сайт который хотите. (Введите урл сайта в адресную строку и нажмите Enter)
  34. Откройте вкладку LightHouse
  35. Нажмите Generate report
  36. Установить в браузер бесплатный AdBlocker
  37. Установить в браузер Json Viewer
-
  38. Зайти на сайт https://ksendzov.com (https://ksendzov.com/ )
  39. Сделать и сохранить скриншот видимой части страницы сайта.
  40. Сделать и сохранить скриншот всего сайта.
+        [Link](https://drive.google.com/file/d/1SSqFHwmH3A0xS92x0A13oq7Y_9d9odHD/view?usp=sharing)
+
  41. Изменить локацию GPS. Продемонстрировать на сайте Гугл карт.
  42. Изменить локацию GPS второй раз. Продемонстрировать на сайте Гугл карт.
  43. Найти интерфейс для изменения User-Agent.
@@ -54,4 +58,5 @@
  50. Создать свои параметры плохого соединения и проверить как будет загружаться страница.
  51. Найти интерфейс для изменения/добавления параметров Locations.
  52. Проверить на Google карте как применяются изменения локации.
+        [Link]()
 

@@ -60,4 +60,4 @@
 51.Найти интерфейс для изменения/добавления параметров Locations  
 52.Проверить на Google карте, как применяются изменения локации  
 
-- **Шаги выполнения 41-52: [Link]()**  
+- **Шаги выполнения 41-52: [Link](https://drive.google.com/file/d/1nIJGrUUU-gEmoVTDLpkthVobmD0lmU8w/view?usp=sharing)**  
